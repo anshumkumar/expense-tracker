@@ -1,0 +1,35 @@
+<svg 
+    width="400" 
+    height="100" 
+    viewBox="0 0 400 100" 
+    xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purple-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6f42c1; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4e1f7c; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect 
+      x="10" 
+      y="10" 
+      width="380" 
+      height="80" 
+      fill="url(#purple-blue)" 
+      rx="10" />
+
+  <text 
+      x="20" 
+      y="45" 
+      font-family="Arial, sans-serif" 
+      font-size="32" 
+      fill="white" 
+      font-weight="bold">Anshum's</text>
+  <text 
+      x="20" 
+      y="75" 
+      font-family="Arial, sans-serif" 
+      font-size="22" 
+      fill="white" 
+      font-weight="300">Finance Manager</text>
+</svg>
